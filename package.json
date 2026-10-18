@@ -1,5 +1,5 @@
 {
-  "name": "@sagelabs/matrix-mcp-server",
+  "name": "@retiform/matrix-mcp-server",
   "version": "1.0.2",
   "description": "Standalone Matrix MCP tool server exposing Matrix chat operations via the Model Context Protocol",
   "type": "module",
@@ -38,12 +38,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sagelabs-dev/matrix-mcp-server.git"
+    "url": "git+https://github.com/retiform-labs/matrix-mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/sagelabs-dev/matrix-mcp-server/issues"
+    "url": "https://github.com/retiform-labs/matrix-mcp-server/issues"
   },
-  "homepage": "https://github.com/sagelabs-dev/matrix-mcp-server#readme",
+  "homepage": "https://github.com/retiform-labs/matrix-mcp-server#readme",
   "files": [
     "src/",
     "config.example.json5",
@@ -66,7 +66,7 @@
   },
   "author": {
     "name": "Guan",
-    "url": "https://github.com/sagelabs-dev"
+    "url": "https://github.com/retiform-labs"
   },
   "license": "MIT"
 }
