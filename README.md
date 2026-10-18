@@ -1,6 +1,6 @@
-# @sagelabs/matrix-mcp-server
+# @retiform/matrix-mcp-server
 
-[![npm version](https://img.shields.io/npm/v/@sagelabs/matrix-mcp-server.svg)](https://www.npmjs.com/package/@sagelabs/matrix-mcp-server)
+[![npm version](https://img.shields.io/npm/v/@retiform/matrix-mcp-server.svg)](https://www.npmjs.com/package/@retiform/matrix-mcp-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D22.0.0-brightgreen.svg)](https://nodejs.org/)
 
@@ -20,7 +20,7 @@ Built on [`@vector-im/matrix-bot-sdk`](https://github.com/vector-im/matrix-bot-s
 ## Install
 
 ```bash
-npm install @sagelabs/matrix-mcp-server
+npm install @retiform/matrix-mcp-server
 ```
 
 ### Requirements
@@ -33,7 +33,7 @@ npm install @sagelabs/matrix-mcp-server
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/sagelabs-dev/matrix-mcp-server.git
+git clone https://github.com/retiform-labs/matrix-mcp-server.git
 cd matrix-mcp-server
 npm install
 cp config.example.json5 config.json5
@@ -75,7 +75,7 @@ Point any MCP-compatible client at the server:
 }
 ```
 
-Or use with [`@sagelabs/mcp-ai`](https://www.npmjs.com/package/@sagelabs/mcp-ai) aggregator for multi-server tool composition.
+Or use with [`@retiform/mcp-ai`](https://www.npmjs.com/package/@retiform/mcp-ai) aggregator for multi-server tool composition.
 
 ## Configuration
 
@@ -226,8 +226,8 @@ If matrix-mcp-server is useful to you, consider supporting its continued develop
 
 ## License
 
-[MIT](LICENSE) © 2026 [Guan](https://github.com/sagelabs-dev)
+[MIT](LICENSE) © 2026 [Guan](https://github.com/retiform-labs)
 
 ---
 
-Crafted with ❤️ by [Sage Labs](https://sagelabs.dev)
+Crafted with ❤️ by [Retiform Labs](https://retiform.dev)
